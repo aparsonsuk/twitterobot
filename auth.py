@@ -1,0 +1,8 @@
+consumer_key1 = '7TNtAkGiY6OLdk5m9xU1KgG3o'
+consumer_secret1 = '9KTH3gy6gMPkFe9ch7sOfYaYsrcdyNSpEiOkxHTq1x81suIlcB'
+access_token1 = '85778042-4EaKMep9hjBpTOdN07mn8MhhHtJ8AMz04eRCtvHsg'
+access_token_secret1 = 'msLbtjmDlJFsu60XvCOD0Qbh7NAzzNTTKiXLdJrYrivmQ'
+consumer_key = '2Q45h5zpN5ux6Dl3XAvhZN9kH'
+consumer_secret = 'uHDaUtj4YJmAO8WvCaIZxHky4gRdXo8E0msdV499dMRJrxvxuS'
+access_token = '897028034452213760-joA4B8lzyYd9i1BUfv1aImrCjj3N1NO'
+access_token_secret = 'SSrhc6j5SIMonyMNrB2f6gQJjGYCbyLKsFtnuEePnZvmB'
